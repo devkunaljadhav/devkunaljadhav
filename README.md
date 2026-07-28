@@ -8,6 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=AWS+%26+DevOps+Learner;Linux+%7C+Docker+%7C+Git+%26+GitHub;Learning+Terraform+%26+Kubernetes;Building+Real+World+Cloud+Projects" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/devkunaljadhav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="devkunaljadhav">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me

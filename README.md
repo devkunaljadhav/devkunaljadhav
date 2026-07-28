@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal Jadhav
 
-<!--
-**devkunaljadhav/devkunaljadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AWS & DevOps Learner
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Docker
+- Terraform
+- Jenkins
+- Kubernetes
+
+## 💻 Skills
+
+- Linux
+- Git & GitHub
+- Shell Scripting
+- AWS
+- Docker
+
+## 🚀 Featured Projects
+
+- AWS Blue-Green Deployment
+- Solar Company Admin Panel
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn link)
+- Email: your-email@example.com
+
+⭐ Thanks for visiting my profile!

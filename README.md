@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./ChatGPT Image Jul 29, 2026, 12_09_43 AM.png" alt="Kunal Jadhav Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Kunal Jadhav</h1>
 <h3 align="center">AWS & DevOps Learner | Building Cloud Projects</h3>
 

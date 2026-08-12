@@ -37,7 +37,7 @@ location: India 📍
 currently_learning: [Terraform, Jenkins, Kubernetes]
 currently_building: AWS Blue-Green Deployment
 goal: Become a DevOps Engineer
-fun_fact: Curious about gaming 🎮, video creation 🎬 and numerology 🔮
+fun_fact: Curious about gaming 🎮, video creation 🎬 , learing new Tech
 ```
 
 - 🌱 Currently learning **Terraform, Jenkins & Kubernetes**

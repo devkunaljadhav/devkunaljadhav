@@ -91,11 +91,13 @@ kunal:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status / Links |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🌐 **AWS Blue-Green Deployment** | Implemented zero-downtime deployment strategy on AWS using Auto Scaling, Route53, and Load Balancers. | `AWS` `EC2` `Route53` `ALB` `Bash` | [Repository](https://github.com/devkunaljadhav) |
-| ☀️ **Solar Company Admin Panel** | Full-stack responsive admin dashboard with role-based auth for solar operations and analytics. | `PHP` `MySQL` `JS` `Bootstrap` | [Repository](https://github.com/devkunaljadhav) |
-| 🎓 **Student Management System** | Complete CRUD application with database integration for managing academic and student data. | `Java` `MySQL` `OOP` | [Repository](https://github.com/devkunaljadhav) |
+| 🔄 **[AWS DMS Migration Showcase](https://github.com/devkunaljadhav/aws-dms-full-migration-lab)** | Homogeneous, heterogeneous & on-premises to Amazon RDS database migration lab using AWS DMS and CloudWatch monitoring. | `AWS DMS` `RDS` `MySQL` `CloudWatch` | [🔗 View Project](https://github.com/devkunaljadhav/aws-dms-full-migration-lab) |
+| 🛡️ **[AWS Zero-Downtime Blue-Green Deployment](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS)** | High-availability zero-downtime deployment strategy on AWS leveraging ALB, Route 53, Target Groups, and ACM SSL. | `AWS` `EC2` `ALB` `Route 53` `ACM` | [🔗 View Project](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS) |
+| 🏗️ **[AWS 3-Tier Highly Available Web Application](https://github.com/devkunaljadhav/aws-3-tire-web-application)** | Production-ready 3-tier architecture with Auto Scaling, Application Load Balancers, Multi-AZ RDS, and SNS notifications. | `EC2 ASG` `ALB` `RDS Multi-AZ` `SNS` | [🔗 View Project](https://github.com/devkunaljadhav/aws-3-tire-web-application) |
+| 🛠️ **[Bash DevOps Automation Toolkit](https://github.com/devkunaljadhav/bash-devops-toolkit)** | Practical Linux system administration & automation scripts for server monitoring, automated backups, and log rotation. | `Bash` `Linux` `Cron` `DevOps Automation` | [🔗 View Project](https://github.com/devkunaljadhav/bash-devops-toolkit) |
+| 🔐 **[AWS Transfer Family SFTP to S3](https://github.com/devkunaljadhav/aws-transfer-family-sftp-s3)** | Secure enterprise SFTP data transfer directly to Amazon S3 with granular IAM role policies and bucket security. | `AWS Transfer` `Amazon S3` `IAM` `SFTP` | [🔗 View Project](https://github.com/devkunaljadhav/aws-transfer-family-sftp-s3) |
 
 ---
 

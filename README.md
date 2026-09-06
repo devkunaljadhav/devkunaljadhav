@@ -42,7 +42,7 @@
 kunal:
   location: "India 📍"
   role: "Aspiring DevOps & Cloud Engineer ☁️"
-  education: "Computer Applications / Computer Science"
+  education: "Bachelor's in Computer Science"
   current_focus:
     - "Mastering Terraform (Infrastructure as Code)"
     - "Kubernetes Cluster Management & Helm"

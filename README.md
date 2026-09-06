@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_09_43%20AM.png" alt="Kunal Jadhav Banner" width="100%" />
+  <img src="./banner-Image.png" alt="Kunal Jadhav Banner" width="100%" />
 </p>
 
 <div align="center">
 
 # ⚡ Kunal Jadhav ⚡
-### ☁️ Aspiring DevOps & Cloud Engineer | 🚀 Cloud Infrastructure & Automation Enthusiast
+### ☁️ DevOps & Cloud Engineer | AWS | Linux | Docker | Terraform | Jenkins | Kubernetes
 
 <p align="center">
   <a href="https://github.com/devkunaljadhav">
@@ -41,7 +41,7 @@
 ```yaml
 kunal:
   location: "India 📍"
-  role: "Aspiring DevOps & Cloud Engineer ☁️"
+  role: "DevOps & Cloud Engineer ☁️"
   education: "Bachelor's in Computer Science"
   current_focus:
     - "Mastering Terraform (Infrastructure as Code)"
@@ -57,7 +57,6 @@ kunal:
 - ☁️ Designing resilient architectures on **AWS** leveraging VPC, EC2, ECS, S3, IAM, and Route53.
 - 🌱 Actively diving deeper into **Terraform (IaC)**, **Kubernetes (K8s)**, and **Monitoring tools (Prometheus & Grafana)**.
 - 💬 Ask me about **AWS, Linux, Docker, CI/CD, or Web Technologies**.
-- 🎯 Let's connect and build something awesome together!
 
 ---
 
@@ -138,7 +137,6 @@ kunal:
 
 <div align="center">
 
-  ⭐️ **If you like my profile or projects, please give them a star!** ⭐️  
   *Built with passion, coffee ☕, and code by [Kunal Jadhav](https://github.com/devkunaljadhav).*
 
 </div>

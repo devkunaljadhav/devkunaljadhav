@@ -5,15 +5,24 @@
 <div align="center">
 
 # ⚡ Kunal Jadhav ⚡
-### ☁️ DevOps & Cloud Engineer | AWS | Linux | Docker | Terraform | Jenkins | Kubernetes
+### ☁️ DevOps & Cloud Engineer | AWS Architecture | Infrastructure as Code | CI/CD Automation
 
 <p align="center">
   <a href="https://github.com/devkunaljadhav">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=620&lines=DevOps+%26+Cloud+Engineering+Enthusiast+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%E2%98%81%EF%B8%8F;Automating+CI%2FCD+Pipelines+with+Jenkins+%26+Git+%E2%9A%99%EF%B8%8F;Building+Scalable+%26+Resilient+Infrastructure+%F0%9F%9B%A1%EF%B8%8F;Open+to+DevOps+%26+Cloud+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=620&lines=DevOps+%26+Cloud+Engineering+Enthusiast+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%E2%98%81%EF%B8%8F;Automating+CI%2FCD+Pipelines+with+Jenkins+%26+Git+%E2%9A%99%EF%B8%8F;Building+Scalable+%26+Resilient+Infrastructure+%F0%9F%9B%A1%EF%B8%8F;Open+to+DevOps+%26+Cloud+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Badges -->
+<!-- Navigation Bar -->
+<p align="center">
+  <a href="#-about-me"><b>📖 About</b></a> &nbsp;•&nbsp;
+  <a href="#️-tech-stack--skills"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-github-analytics--activity"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
+  <a href="#-connect--collaborate"><b>🤝 Connect</b></a>
+</p>
+
+<!-- Social & Status Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/devkunaljadhav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,12 +33,8 @@
   <a href="mailto:kunaljadhav1625@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<!-- Status Badges -->
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=devkunaljadhav&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Looking%20For%20Roles-00D2FF?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20For%20Roles-00D2FF?style=for-the-badge&logo=rocket" alt="Status" />
 </p>
 
 </div>
@@ -47,20 +52,20 @@
     <td width="55%" valign="top">
       <h3>💡 What I Do &amp; Build</h3>
       <p>
-        I am a <b>DevOps &amp; Cloud Engineer</b> dedicated to designing resilient cloud architectures on AWS and automating zero-touch CI/CD pipelines.
+        I am a <b>DevOps &amp; Cloud Engineer</b> dedicated to designing resilient, cost-optimized cloud solutions on <b>AWS</b> and automating end-to-end deployment workflows.
       </p>
       <ul>
-        <li>☁️ <b>Cloud Infrastructure:</b> Designing resilient architectures on AWS (VPC, EC2, ECS, S3, IAM, Route 53).</li>
-        <li>⚙️ <b>CI/CD Automation:</b> Building automated pipelines with Jenkins &amp; GitHub Actions.</li>
-        <li>📦 <b>Containers &amp; IaC:</b> Containerizing workloads with Docker &amp; provisioning infrastructure with Terraform.</li>
-        <li>🌱 <b>Kubernetes &amp; Observability:</b> Managing clusters with Kubernetes &amp; Helm, and monitoring with Prometheus &amp; Grafana.</li>
+        <li>☁️ <b>Cloud Infrastructure:</b> Architecting production-grade, highly available systems on AWS (VPC, EC2, ECS, S3, IAM, Route 53).</li>
+        <li>⚙️ <b>CI/CD Automation:</b> Engineering zero-touch automated build, test &amp; deployment cycles using Jenkins &amp; GitHub Actions.</li>
+        <li>📦 <b>Containers &amp; IaC:</b> Containerizing workloads with Docker &amp; provisioning declarative infrastructure with Terraform.</li>
+        <li>🌱 <b>Kubernetes &amp; Observability:</b> Orchestrating container clusters with Kubernetes &amp; Helm, and monitoring with Prometheus &amp; Grafana.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <h3>📌 Profile Snapshot</h3>
       <p>📍 <b>Location:</b> India</p>
       <p>🎓 <b>Education:</b> Bachelor's in Computer Science</p>
-      <p>🚀 <b>Active Lab:</b> <a href="https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS">AWS Zero-Downtime Deployment</a></p>
+      <p>🚀 <b>Active Project:</b> <a href="https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS">AWS Zero-Downtime Deployment</a></p>
       <p>💼 <b>Open For:</b> DevOps Engineer, Cloud Associate &amp; SRE Roles</p>
       <p>🎮 <b>Interests:</b> Cloud Architecture, Linux SysAdmin, Automation, Gaming</p>
       <p>💬 <b>Ask Me About:</b> AWS, Docker, Kubernetes, CI/CD, Terraform</p>
@@ -74,39 +79,35 @@
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,bash" alt="Cloud and OS" />
-</p>
-
-### ⚙️ DevOps, Containers & CI/CD
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github" alt="DevOps Stack" />
-</p>
-
-### 💻 Programming & Scripting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,js,cpp,c,java,php,html,css" alt="Programming Languages" />
-</p>
-
-### 🗄️ Databases & Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,postman,github" alt="Databases and Tools" />
-</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,bash,docker,kubernetes,terraform,jenkins" alt="DevOps and Cloud" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=githubactions,git,github,mysql,redis,nginx,py,js" alt="Tools, Databases and Languages" />
+  </p>
 
 </div>
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **☁️ Cloud & Platforms** | `AWS (VPC, EC2, ECS, S3, IAM, Route 53, ALB)` `Google Cloud (GCP)` |
+| **⚙️ DevOps & Containers** | `Docker` `Kubernetes (K8s)` `Helm` `Terraform (IaC)` `Jenkins` `GitHub Actions` |
+| **🐧 Operating Systems** | `Linux (Ubuntu, CentOS, RHEL)` `Bash / Shell Scripting` `Git` `GitHub` |
+| **📊 Observability & Web** | `Prometheus` `Grafana` `AWS CloudWatch` `Nginx Reverse Proxy` |
+| **🗄️ Databases & Caching** | `MySQL` `Amazon RDS` `Amazon DynamoDB` `Redis` |
+| **💻 Languages & Web** | `Bash` `Python` `JavaScript` `C/C++` `HTML5` `CSS3` |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project | Architecture & Key Highlights | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🛡️ **[AWS Zero-Downtime Blue-Green Deployment](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS)** | High-availability zero-downtime deployment strategy on AWS leveraging ALB, Route 53, Target Groups, and ACM SSL. | `AWS` `EC2` `ALB` `Route 53` `ACM` | [🔗 View Project](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS) |
-| ⚡ **[AWS Serverless Employee Management System](https://github.com/devkunaljadhav/AWS-Serverless-Employee-Management-System-with-Amazon-SQS)** | Decoupled event-driven serverless architecture using API Gateway, Lambda, Amazon SQS queuing, and DynamoDB for CRUD operations. | `AWS Lambda` `SQS` `DynamoDB` `API Gateway` `S3` | [🔗 View Project](https://github.com/devkunaljadhav/AWS-Serverless-Employee-Management-System-with-Amazon-SQS) |
-| 🌐 **[AWS Full-Stack 3-Tier Web Application](https://github.com/devkunaljadhav/AWS-full-stack-web-application)** | Production-grade multi-tier architecture featuring React frontend, Node.js backend, EC2, RDS MySQL, ElastiCache Redis, and Nginx reverse proxy. | `AWS EC2` `RDS MySQL` `Redis` `Nginx` `React` `Node.js` | [🔗 View Project](https://github.com/devkunaljadhav/AWS-full-stack-web-application) |
-| 🔄 **[AWS DMS Migration Showcase](https://github.com/devkunaljadhav/aws-dms-full-migration-lab)** | Homogeneous, heterogeneous & on-premises to Amazon RDS database migration lab using AWS DMS and CloudWatch monitoring. | `AWS DMS` `RDS` `MySQL` `CloudWatch` | [🔗 View Project](https://github.com/devkunaljadhav/aws-dms-full-migration-lab) |
-| 🛠️ **[Bash DevOps Automation Toolkit](https://github.com/devkunaljadhav/bash-devops-toolkit)** | Practical Linux system administration & automation scripts for server monitoring, automated backups, and log rotation. | `Bash` `Linux` `Cron` `DevOps Automation` | [🔗 View Project](https://github.com/devkunaljadhav/bash-devops-toolkit) |
+| 🛡️ **[AWS Blue-Green Deployment](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS)**<br/><sub>*Zero-Downtime Release Strategy*</sub> | High-availability zero-downtime deployment architecture on AWS leveraging Application Load Balancers, Route 53 DNS weighting, Target Groups, and ACM SSL certificates. | `AWS` `ALB` `Route 53` `EC2` `ACM` | [🔗 View](https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS) |
+| ⚡ **[Serverless Management System](https://github.com/devkunaljadhav/AWS-Serverless-Employee-Management-System-with-Amazon-SQS)**<br/><sub>*Event-Driven Decoupled Architecture*</sub> | Decoupled event-driven serverless architecture utilizing API Gateway, AWS Lambda, Amazon SQS queue buffering, and DynamoDB for scalable CRUD operations. | `Lambda` `SQS` `DynamoDB` `API Gateway` | [🔗 View](https://github.com/devkunaljadhav/AWS-Serverless-Employee-Management-System-with-Amazon-SQS) |
+| 🌐 **[Full-Stack 3-Tier AWS Architecture](https://github.com/devkunaljadhav/AWS-full-stack-web-application)**<br/><sub>*Production-Grade VPC Design*</sub> | Multi-tier production architecture featuring React frontend, Node.js backend, EC2, RDS MySQL Multi-AZ, ElastiCache Redis, and Nginx reverse proxy across private subnets. | `React` `Node.js` `RDS` `Redis` `Nginx` | [🔗 View](https://github.com/devkunaljadhav/AWS-full-stack-web-application) |
+| 🔄 **[AWS Database Migration Lab](https://github.com/devkunaljadhav/aws-dms-full-migration-lab)**<br/><sub>*Homogeneous & Heterogeneous DB Migration*</sub> | Full database migration showcase using AWS Database Migration Service (DMS), Schema Conversion Tool (SCT), and CloudWatch monitoring for minimal downtime. | `AWS DMS` `RDS MySQL` `CloudWatch` | [🔗 View](https://github.com/devkunaljadhav/aws-dms-full-migration-lab) |
+| 🛠️ **[Bash DevOps Automation Toolkit](https://github.com/devkunaljadhav/bash-devops-toolkit)**<br/><sub>*Linux SysAdmin Automation*</sub> | Production-ready Linux system administration automation scripts for server health telemetry, automated log rotation, and cron-scheduled backup replication. | `Bash` `Linux` `Cron` `Automation` | [🔗 View](https://github.com/devkunaljadhav/bash-devops-toolkit) |
 
 ---
 
@@ -114,22 +115,22 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devkunaljadhav&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=00d2ff&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" height="175" alt="Kunal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkunaljadhav&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=00d2ff&bg_color=0D1117&title_color=00D2FF" height="175" alt="Kunal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkunaljadhav&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00d2ff&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=c9d1d9" height="175" alt="Kunal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkunaljadhav&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00d2ff&bg_color=0D1117&title_color=00D2FF&text_color=c9d1d9" height="175" alt="Kunal's Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkunaljadhav&theme=tokyonight&hide_border=false&border_radius=8&border_color=00d2ff&background=0D1117&ring=00D2FF&fire=FF9E3B&currStreakLabel=00D2FF" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkunaljadhav&theme=tokyo-night&hide_border=false&border_radius=8&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FF9E3B" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkunaljadhav&theme=tokyonight&hide_border=false&border_radius=10&border_color=00d2ff&background=0D1117&ring=00D2FF&fire=FF9E3B&currStreakLabel=00D2FF" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 ## 🤝 Connect & Collaborate
+
+<p align="center">
+  Looking to discuss <b>Cloud Architecture</b>, <b>DevOps automation</b>, or exploring <b>engineering opportunities</b>? Let's connect!
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devkunaljadhav" target="_blank">
@@ -143,10 +144,14 @@
   </a>
 </p>
 
+<p align="right">
+  <a href="#-kunal-jadhav-">⬆️ Back to Top</a>
+</p>
+
 ---
 
 <div align="center">
 
-  *Built with passion, coffee ☕, and code by [Kunal Jadhav](https://github.com/devkunaljadhav).*
+  *⚡ Engineered with passion, automated pipelines & code by **[Kunal Jadhav](https://github.com/devkunaljadhav)** ⚡*
 
 </div>

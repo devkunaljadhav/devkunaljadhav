@@ -124,7 +124,7 @@
     </text>
 
     <!-- Interactive Cursor -->
-    <rect x="368" y="354" width="8" height="17" class="cursor">
+    <rect x="424" y="354" width="8" height="17" class="cursor">
       <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
     </rect>
   </g>

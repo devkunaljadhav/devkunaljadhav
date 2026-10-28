@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 450" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d131f"/>
+      <stop offset="100%" stop-color="#090d15"/>
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#162032"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="cardGlow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#00d2ff" flood-opacity="0.12" />
+    </filter>
+
+    <style>
+      .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+      .title { fill: #94a3b8; font-size: 13px; font-weight: 500; letter-spacing: 0.5px; }
+      .prompt { fill: #00d2ff; font-weight: 700; }
+      .key { fill: #38bdf8; font-weight: 600; }
+      .colon { fill: #7dd3fc; }
+      .str { fill: #a7f3d0; }
+      .dash { fill: #fbbf24; font-weight: 700; }
+      .bracket { fill: #c084fc; font-weight: 600; }
+      .comment { fill: #64748b; font-style: italic; }
+      .tag { fill: #38bdf8; font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+      .cursor { fill: #00d2ff; }
+    </style>
+  </defs>
+
+  <!-- Main Card Frame & Shadow -->
+  <rect x="2" y="2" width="846" height="444" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.8" filter="url(#cardGlow)"/>
+
+  <!-- Terminal Window Header -->
+  <path d="M 2 16 Q 2 2 16 2 L 834 2 Q 848 2 848 16 L 848 42 L 2 42 Z" fill="url(#headerGrad)"/>
+  <line x1="2" y1="42" x2="848" y2="42" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Mac Window Buttons -->
+  <circle cx="24" cy="22" r="6" fill="#ef4444" stroke="#dc2626" stroke-width="0.5"/>
+  <circle cx="44" cy="22" r="6" fill="#f59e0b" stroke="#d97706" stroke-width="0.5"/>
+  <circle cx="64" cy="22" r="6" fill="#10b981" stroke="#059669" stroke-width="0.5"/>
+
+  <!-- Window Title -->
+  <text x="425" y="26" text-anchor="middle" class="font-mono title">⚡ kunal@devops-box: ~/profile.yaml</text>
+
+  <!-- Tag Pill -->
+  <rect x="760" y="12" width="70" height="20" rx="6" fill="#082f49" stroke="#0284c7" stroke-width="0.8"/>
+  <text x="795" y="26" text-anchor="middle" class="font-mono tag">YAML</text>
+
+  <!-- Terminal Code Content -->
+  <g transform="translate(30, 48)" class="font-mono" font-size="14">
+    <!-- Line 1: kunal: -->
+    <text x="0" y="30">
+      <tspan class="prompt">kunal</tspan><tspan class="colon">:</tspan>
+    </text>
+
+    <!-- Line 2: location -->
+    <text x="24" y="58">
+      <tspan class="key">location</tspan><tspan class="colon">: </tspan><tspan class="str">"India 📍"</tspan>
+    </text>
+
+    <!-- Line 3: role -->
+    <text x="24" y="86">
+      <tspan class="key">role</tspan><tspan class="colon">: </tspan><tspan class="str">"DevOps &amp; Cloud Engineer ☁️"</tspan>
+    </text>
+
+    <!-- Line 4: education -->
+    <text x="24" y="114">
+      <tspan class="key">education</tspan><tspan class="colon">: </tspan><tspan class="str">"Bachelor's in Computer Science 🎓"</tspan>
+    </text>
+
+    <!-- Line 5: current_focus -->
+    <text x="24" y="142">
+      <tspan class="key">current_focus</tspan><tspan class="colon">:</tspan>
+    </text>
+
+    <!-- Focus items -->
+    <text x="48" y="170">
+      <tspan class="dash">- </tspan><tspan class="str">"Mastering Terraform (Infrastructure as Code) 🏗️"</tspan>
+    </text>
+
+    <text x="48" y="198">
+      <tspan class="dash">- </tspan><tspan class="str">"Kubernetes Cluster Management &amp; Helm ☸️"</tspan>
+    </text>
+
+    <text x="48" y="226">
+      <tspan class="dash">- </tspan><tspan class="str">"CI/CD Pipeline Automation (Jenkins &amp; GitHub Actions) 🔄"</tspan>
+    </text>
+
+    <!-- Line 6: active_project -->
+    <text x="24" y="254">
+      <tspan class="key">active_project</tspan><tspan class="colon">: </tspan><tspan fill="#38bdf8" font-weight="600">"AWS Zero-Downtime Blue-Green Deployment 🚀"</tspan>
+    </text>
+
+    <!-- Line 7: interests -->
+    <text x="24" y="282">
+      <tspan class="key">interests</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="str">"Cloud Architecture"</tspan><tspan class="colon">, </tspan><tspan class="str">"Linux SysAdmin"</tspan><tspan class="colon">, </tspan><tspan class="str">"Automation"</tspan><tspan class="colon">, </tspan><tspan class="str">"Gaming 🎮"</tspan><tspan class="bracket">]</tspan>
+    </text>
+
+    <!-- Line 8: open_for -->
+    <text x="24" y="310">
+      <tspan class="key">open_for</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="str">"DevOps Engineer"</tspan><tspan class="colon">, </tspan><tspan class="str">"Cloud Associate"</tspan><tspan class="colon">, </tspan><tspan class="str">"SRE Roles 💼"</tspan><tspan class="bracket">]</tspan>
+    </text>
+
+    <!-- Line 9: Comment -->
+    <text x="24" y="338">
+      <tspan class="comment"># Ready to architect, automate &amp; scale cloud infrastructure...</tspan>
+    </text>
+
+    <!-- Line 10: Shell prompt -->
+    <text x="24" y="368">
+      <tspan fill="#00d2ff" font-weight="700">kunal@aws-box</tspan><tspan fill="#64748b">:</tspan><tspan fill="#a7f3d0">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f8fafc">terraform apply --auto-approve</tspan>
+    </text>
+
+    <!-- Interactive Cursor -->
+    <rect x="368" y="354" width="8" height="17" class="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

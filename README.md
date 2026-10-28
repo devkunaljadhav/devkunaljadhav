@@ -28,8 +28,8 @@
 
 <!-- Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devkunaljadhav&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Looking%20For%20Roles-success?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=devkunaljadhav&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Looking%20For%20Roles-00D2FF?style=for-the-badge&logo=rocket" alt="Status" />
 </p>
 
 </div>
@@ -38,25 +38,35 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-kunal:
-  location: "India 📍"
-  role: "DevOps & Cloud Engineer ☁️"
-  education: "Bachelor's in Computer Science"
-  current_focus:
-    - "Mastering Terraform (Infrastructure as Code)"
-    - "Kubernetes Cluster Management & Helm"
-    - "CI/CD Pipeline Automation (Jenkins & GitHub Actions)"
-  active_project: "AWS Zero-Downtime Blue-Green Deployment 🚀"
-  interests: ["Cloud Architecture", "Linux System Administration", "Automation", "Gaming 🎮"]
-  open_for: ["DevOps Engineer", "Cloud Associate", "SRE / Platform Engineer Intern/Fresher Roles"]
-```
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Kunal's DevOps Terminal" width="100%" />
+</p>
 
-- 🔭 I’m currently building real-world **Cloud & DevOps projects** focused on scalability, reliability, and security.
-- ⚙️ Skilled in automating build, test, and deployment workflows using **Jenkins, Git, and Docker**.
-- ☁️ Designing resilient architectures on **AWS** leveraging VPC, EC2, ECS, S3, IAM, and Route53.
-- 🌱 Actively diving deeper into **Terraform (IaC)**, **Kubernetes (K8s)**, and **Monitoring tools (Prometheus & Grafana)**.
-- 💬 Ask me about **AWS, Linux, Docker, CI/CD, or Web Technologies**.
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>💡 What I Do &amp; Build</h3>
+      <p>
+        I am a <b>DevOps &amp; Cloud Engineer</b> dedicated to designing resilient cloud architectures on AWS and automating zero-touch CI/CD pipelines.
+      </p>
+      <ul>
+        <li>☁️ <b>Cloud Infrastructure:</b> Designing resilient architectures on AWS (VPC, EC2, ECS, S3, IAM, Route 53).</li>
+        <li>⚙️ <b>CI/CD Automation:</b> Building automated pipelines with Jenkins &amp; GitHub Actions.</li>
+        <li>📦 <b>Containers &amp; IaC:</b> Containerizing workloads with Docker &amp; provisioning infrastructure with Terraform.</li>
+        <li>🌱 <b>Kubernetes &amp; Observability:</b> Managing clusters with Kubernetes &amp; Helm, and monitoring with Prometheus &amp; Grafana.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>📌 Profile Snapshot</h3>
+      <p>📍 <b>Location:</b> India</p>
+      <p>🎓 <b>Education:</b> Bachelor's in Computer Science</p>
+      <p>🚀 <b>Active Lab:</b> <a href="https://github.com/devkunaljadhav/Blue-Green-Deployment-of-Frontend-Web-Application-on-AWS">AWS Zero-Downtime Deployment</a></p>
+      <p>💼 <b>Open For:</b> DevOps Engineer, Cloud Associate &amp; SRE Roles</p>
+      <p>🎮 <b>Interests:</b> Cloud Architecture, Linux SysAdmin, Automation, Gaming</p>
+      <p>💬 <b>Ask Me About:</b> AWS, Docker, Kubernetes, CI/CD, Terraform</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
